@@ -1,7 +1,7 @@
 (ns stock.test)
 
 (defn print-message []
-  (println "Welcome to paradise"))
+  (println "Welcome to paradise test"))
 
 (print-message)
 
